@@ -1,0 +1,25 @@
+{
+  "name": "@cloudsteak/react-spfx-popover",
+  "version": "1.0.0",
+  "description": "Popover Solution for SPFx React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudsteak/react-spfx-popover.git"
+  },
+  "keywords": [
+    "react",
+    "spfx",
+    "cloudsteak",
+    "typescript"
+  ],
+  "author": "CloudSteak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudsteak/react-spfx-popover/issues"
+  },
+  "homepage": "https://github.com/cloudsteak/react-spfx-popover#readme"
+}
